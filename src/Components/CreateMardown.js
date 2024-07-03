@@ -33,17 +33,17 @@ function CreateMarkdown() {
     e.preventDefault();
 
     const data = { markdown, title, date };
-    if (data.title == "" && data.markdown == "") {
+    if (data.title === "" && data.markdown === "") {
       alert("Please Enter the Title and Markdown values!");
       // data.title.focus();
 
       return false;
     } 
-    else if (data.title == "") {
+    else if (data.title === "") {
         alert("Please enter the Title!");
 
         return false;
-      } else if (data.markdown == "") {
+      } else if (data.markdown === "") {
         alert("Please enter a value in Markdown Editor!");
 
         return false;

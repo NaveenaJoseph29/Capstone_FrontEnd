@@ -55,6 +55,7 @@ function Home() {
 
               <img
                 src="https://cdn.dribbble.com/users/1459765/screenshots/3563580/media/b6dae753f8d84d081a0d886a62a405b6.gif"
+                alt=""
                 className="scroll"
               />
             </div>

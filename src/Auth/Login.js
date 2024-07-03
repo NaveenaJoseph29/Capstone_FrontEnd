@@ -105,6 +105,7 @@ function Login() {
                   <img
                     className="mark1"
                     src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DT4F2hlgoOToE_b6feUSMw.gif"
+                  alt=""
                   />
                   <h2
                     style={{

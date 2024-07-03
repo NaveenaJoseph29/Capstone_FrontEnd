@@ -13,7 +13,7 @@ function NavBar() {
       <Container>
         <LinkContainer to="/dashboard/home">
           <Navbar.Brand>
-            <img src="/markdown.png" style={{ width: 50, height: 50 }} />
+            <img src="/markdown.png" alt='' style={{ width: 50, height: 50 }} />
           </Navbar.Brand>
         </LinkContainer>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

@@ -106,6 +106,7 @@ function Signup() {
                     <img
                       className="mark2"
                       src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kCShHqnFJqZYvEy343c-VA.gif"
+                    alt=""
                     />
                     {/* <h1 className="text-center mb-4">Create account</h1> */}
                     <h2
